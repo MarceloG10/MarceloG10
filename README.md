@@ -17,7 +17,7 @@ Llevo más de 9 años en transformación digital y tecnología, en banca, teleco
 Cada día, un agente de Claude Code con Opus redacta una edición de noticias en español a partir de 115 medios verificados. Un validador en Python revisa fuentes, nivel de confianza y rotación de temas antes del envío, que sale por zonas horarias de forma automática.
 
 `Python 3.12` `Supabase (Postgres, Edge Functions, Vault)` `Resend` `GitHub Actions` `GitHub Pages`
-🌐 [holavera.news](https://holavera.news)
+🌐 [holavera.news](https://holavera.news) · 📂 [Código (versión de portafolio)](https://github.com/MarceloG10/vera-newsletter-ia)
 
 ### ClubMA · plataforma SaaS para clubes deportivos
 App móvil y backoffice que conectan clubes, entrenadores, jugadores y fans, con 5 roles. La seguridad vive en la base de datos con 67 políticas RLS y 21 migraciones versionadas, y el código está cubierto por unos 485 tests automatizados que corren en CI.
@@ -29,7 +29,7 @@ Agente conversacional que responde a pacientes con el catálogo y las políticas
 
 `n8n 2.41 autoalojado (Docker, VPS)` `Claude Haiku 4.5` `API de Reservo` `Meta Graph API` `Python`
 
-> 🔒 Mi código vive en repositorios privados: productos propios y trabajo para clientes. El calendario de contribuciones refleja esa actividad sin mostrar detalles. Con gusto explico cualquier proyecto en una entrevista.
+> 🔒 Mi trabajo diario vive en repositorios privados. Publico versiones de portafolio limpias, sin datos sensibles. El calendario de contribuciones refleja la actividad privada sin mostrar detalles.
 
 ## Stack
 
