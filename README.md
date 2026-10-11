@@ -17,7 +17,7 @@ Llevo más de 9 años en transformación digital y tecnología, en banca, teleco
 Cada día, un agente de Claude Code con Opus redacta una edición de noticias en español a partir de 115 medios verificados. Un validador en Python revisa fuentes, nivel de confianza y rotación de temas antes del envío, que sale por zonas horarias de forma automática.
 
 `Python 3.12` `Supabase (Postgres, Edge Functions, Vault)` `Resend` `GitHub Actions` `GitHub Pages`
-🌐 [holavera.news](https://holavera.news) · Landing y formularios: [vera-inscripcion](https://github.com/MarceloG10/vera-inscripcion)
+🌐 [holavera.news](https://holavera.news)
 
 ### ClubMA · plataforma SaaS para clubes deportivos
 App móvil y backoffice que conectan clubes, entrenadores, jugadores y fans, con 5 roles. La seguridad vive en la base de datos con 67 políticas RLS y 21 migraciones versionadas, y el código está cubierto por unos 485 tests automatizados que corren en CI.
@@ -25,16 +25,11 @@ App móvil y backoffice que conectan clubes, entrenadores, jugadores y fans, con
 `React Native 0.81 (Expo 54)` `TypeScript` `Expo Router` `Zustand` `NativeWind` `Next.js 16` `Tailwind` `Supabase` `Jest` `GitHub Actions` `EAS`
 
 ### Javiera · agente de IA de ventas y agendamiento para una clínica
-Agente conversacional que responde a pacientes con el catálogo y las políticas de la clínica, y gestiona citas reales con 4 herramientas: consultar disponibilidad, crear, cancelar y reagendar. Con prompt caching, cada mensaje cuesta unos 0,005 USD. Proyecto con Geandce Digital Partner.
+Agente conversacional que responde a pacientes con el catálogo y las políticas de la clínica, y gestiona citas reales con 4 herramientas: consultar disponibilidad, crear, cancelar y reagendar. Con prompt caching, cada mensaje cuesta unos 0,005 USD.
 
 `n8n 2.41 autoalojado (Docker, VPS)` `Claude Haiku 4.5` `API de Reservo` `Meta Graph API` `Python`
 
-### chelo.ai · web y blog en tres idiomas
-Sitio con blog en MDX y traducciones en español, inglés y catalán.
-
-`Next.js 15` `next-intl` `MDX` `Vercel` · [Código](https://github.com/MarceloG10/chelo-ai) · [Demo](https://chelo-ai.vercel.app)
-
-> El código de Vera, ClubMA y Javiera es privado, por ser producto propio y trabajo para cliente. Con gusto los explico en detalle en una entrevista.
+> 🔒 Mi código vive en repositorios privados: productos propios y trabajo para clientes. El calendario de contribuciones refleja esa actividad sin mostrar detalles. Con gusto explico cualquier proyecto en una entrevista.
 
 ## Stack
 
