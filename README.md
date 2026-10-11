@@ -43,6 +43,7 @@ Agente conversacional que responde a pacientes con el catálogo y las políticas
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logo=openrouter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -56,4 +57,4 @@ Agente conversacional que responde a pacientes con el catálogo y las políticas
 
 ## In English
 
-AI consultant based in Barcelona. I build AI agents, automations and AI-assisted software with Claude Code, TypeScript, Python, Supabase and n8n, and I help companies adopt AI in their day-to-day processes. Featured work: an AI-written daily newsletter, a sports-club SaaS with ~485 automated tests, and a scheduling agent for a medical clinic.
+AI consultant based in Barcelona. I build AI agents, automations and AI-assisted software with Claude Code, TypeScript, Python, Supabase, n8n and OpenRouter, and I help companies adopt AI in their day-to-day processes. Featured work: an AI-written daily newsletter, a sports-club SaaS with ~485 automated tests, and a scheduling agent for a medical clinic.
