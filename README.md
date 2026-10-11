@@ -28,6 +28,7 @@ App móvil y backoffice que conectan clubes, entrenadores, jugadores y fans, con
 Agente conversacional que responde a pacientes con el catálogo y las políticas de la clínica, y gestiona citas reales con 4 herramientas: consultar disponibilidad, crear, cancelar y reagendar. Con prompt caching, cada mensaje cuesta unos 0,005 USD.
 
 `n8n 2.41 autoalojado (Docker, VPS)` `Claude Haiku 4.5` `API de Reservo` `Meta Graph API` `Python`
+📂 [Código (versión de portafolio desidentificada)](https://github.com/MarceloG10/javiera-agente-ia-n8n)
 
 > 🔒 Mi trabajo diario vive en repositorios privados. Publico versiones de portafolio limpias, sin datos sensibles. El calendario de contribuciones refleja la actividad privada sin mostrar detalles.
 
