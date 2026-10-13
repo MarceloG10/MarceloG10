@@ -20,7 +20,7 @@ Cada día, un agente de Claude Code con Opus redacta una edición de noticias en
 🌐 [holavera.news](https://holavera.news) · 📂 [Código (versión de portafolio)](https://github.com/MarceloG10/vera-newsletter-ia)
 
 ### ClubMA · plataforma SaaS para clubes deportivos
-App móvil y backoffice que conectan clubes, entrenadores, jugadores y fans, con 5 roles. La seguridad vive en la base de datos con 67 políticas RLS y 21 migraciones versionadas, y el código está cubierto por unos 485 tests automatizados que corren en CI.
+App móvil y backoffice que conectan clubes, entrenadores, jugadores y fans, con 5 roles. La seguridad vive en la base de datos, con RLS activado en sus 25 tablas y 38 migraciones versionadas, y el código está cubierto por más de 700 tests automatizados que corren en CI.
 
 `React Native 0.81 (Expo 54)` `TypeScript` `Expo Router` `Zustand` `NativeWind` `Next.js 16` `Tailwind` `Supabase` `Jest` `GitHub Actions` `EAS`
 
@@ -57,4 +57,4 @@ Agente conversacional que responde a pacientes con el catálogo y las políticas
 
 ## In English
 
-AI consultant based in Barcelona. I build AI agents, automations and AI-assisted software with Claude Code, TypeScript, Python, Supabase, n8n and OpenRouter, and I help companies adopt AI in their day-to-day processes. Featured work: an AI-written daily newsletter, a sports-club SaaS with ~485 automated tests, and a scheduling agent for a medical clinic.
+AI consultant based in Barcelona. I build AI agents, automations and AI-assisted software with Claude Code, TypeScript, Python, Supabase, n8n and OpenRouter, and I help companies adopt AI in their day-to-day processes. Featured work: an AI-written daily newsletter, a sports-club SaaS with 700+ automated tests, and a scheduling agent for a medical clinic.
